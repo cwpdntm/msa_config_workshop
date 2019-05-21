@@ -3,4 +3,4 @@ message: Config from application.yml
 logging:
   level:
     io:
-      spring: INFO
+      spring: DEBUG
